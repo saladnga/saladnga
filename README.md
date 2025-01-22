@@ -1,12 +1,10 @@
-<h1 align="center">Hi, my name is Vu Hoang</h1>
-
 ###
 
 <h1 align="center">About me</h1>
 
 ###
 
-<p align="left">• I'm a Troy University sophomore, majoring in Computer Science.<br><br>• I'm eager to explore, face new challenges, and network with other students, professionals, and mentors who share a similar passion for Software Engineering, Data Science, and AI Development.</p>
+<p align="left">• A student, eager to explore, face new challenges, and network with other students, professionals, and mentors who share a similar passion for Software Engineering, Data Science, and AI Development.</p>
 
 ###
 
