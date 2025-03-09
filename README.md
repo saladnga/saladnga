@@ -1,12 +1,9 @@
-<h3 align="left">👋 Hi, I'm Vu</h3>
+### 👋 Hi, I'm Vu
+- 🎓 I'm a Computer Science student at Troy University
+- 💡 I'm interested in web development, data engineering, and AI
+- 🔎 How to reach me: [LinkedIn](https://www.linkedin.com/in/vuhoang1604/), [Email](hoanganvu.work@gmail.com)
 
-###
-
-<p align="left">💻 I'm a Computer Science student at Troy University<br>💡 I'm interested in web development, data engineering, and AI<br>🔎 How to reach me: [LinkedIn](https://www.linkedin.com/in/vuhoang1604/), [Email](hoanganvu.work@gmail.com)</p>
-
-###
-
-<h3 align="left">⚡ GitHub Stats</h3>
+### ⚡ GitHub Stats
 
 ###
 
