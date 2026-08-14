@@ -10,7 +10,6 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.shion.dev/api?username=saladnga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://streak-stats.demolab.com/?user=saladnga&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></td>
     <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saladnga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></td>
   </tr>
 </table>
