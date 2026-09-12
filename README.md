@@ -1,15 +1,35 @@
-## 👋 Hi, I'm Vu
-- 🎓 I'm a Computer Science graduate of Troy University (Class of 2026).
-- 💡 I'm interested in **full-stack development with AI integration and data engineering**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vuhoang1604/), [Email](hoanganvu.work@gmail.com), [Portfolio](https://hoanganvu.com/).
+<div align="center">
+  <img src="https://media.giphy.com/media/VTwDfhNOmMxZMm2iYf/giphy.gif" width="200">
+  <h1><b>Hi , I'm Vu Hoang </b></h1>
+</div>
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+### About Me
+- Building software, with a growing focus on AI and data engineering.
+- Always tinkering with something — ML models, side projects, or new tools.
+- Die-hard Manchester United supporter.
 
-## 📊 GitHub Stats:
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.shion.dev/api?username=saladnga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saladnga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></td>
-  </tr>
-</table>
+### Contact
+- Connect with me on <a href="https://www.linkedin.com/in/vuhoang1604/">LinkedIn</a> or send me an email at <a href="mailto:hoanganvu.work@gmail.com">hoanganvu.work@gmail.com</a>
+
+---
+
+### Languages:
+| Python3 | Java | TypeScript | JavaScript | SQL |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="55" height="55"/>| 
+
+### Frameworks and Libraries
+| React | Next.js | NestJS | FastAPI | Pandas | NumPy | Scikit-learn | Matplotlib | Plotly |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+
+### Environment, Testing & Other
+| NodeJS | Git | Docker | Postman |
+|----------|----------|----------|----------|
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="55" height="55"/> |
+               
+---
+
+<div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHkyOXAwZGpsd2NjcmZpbWVrdmsxOXZoOGdpaTlzOWswbTM1dWMzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c7RUoYIiNKnNSLOdjF/giphy.gif" width="100%" height="100%" style="border: 20px solid #000000; border-radius: 10px;" />
+</div>
