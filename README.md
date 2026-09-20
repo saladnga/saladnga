@@ -6,7 +6,7 @@
 ### About Me
 - Building software, with a growing focus on AI and data engineering.
 - Always tinkering with something — ML models, side projects, or new tools.
-- Die-hard Manchester United supporter.
+- Manchester United supporter.
 
 ### Contact
 - Connect with me on <a href="https://www.linkedin.com/in/vuhoang1604/">LinkedIn</a> or send me an email at <a href="mailto:hoanganvu.work@gmail.com">hoanganvu.work@gmail.com</a>
