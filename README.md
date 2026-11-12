@@ -29,7 +29,3 @@
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="55" height="55"/> |
                
 ---
-
-<div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHkyOXAwZGpsd2NjcmZpbWVrdmsxOXZoOGdpaTlzOWswbTM1dWMzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c7RUoYIiNKnNSLOdjF/giphy.gif" width="100%" height="100%" style="border: 20px solid #000000; border-radius: 10px;" />
-</div>
